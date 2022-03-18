@@ -3,6 +3,7 @@ body {
   background-repeat: no-repeat;
   font-family: 'Bai Jamjuree', sans-serif;
   font-size: 18px;
+  background-size:contain;
 }
 
 h1, h2, h3 {
